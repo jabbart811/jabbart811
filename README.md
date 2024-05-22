@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently learning C++ ! It should be an interesting experience.
+
 <!--
 **jabbart811/jabbart811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
